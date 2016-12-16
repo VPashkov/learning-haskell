@@ -1,0 +1,1 @@
+# Solution for Missing Numbers (FP) challenge from [hackerrank.com](https://www.hackerrank.com/challenges/missing-numbers-fp)
